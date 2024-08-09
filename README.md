@@ -1,4 +1,4 @@
-# Super Store Sales Dashboard
+# Sales Forecast - Time Series Forecasting
 
 ## Problem Statement
 
@@ -40,13 +40,13 @@ satisfaction
 
 # Snapshot of Dashboard (Power BI DESKTOP)
 
-### Page 1:
+### Page 1: Dashboard Overview
 
 ![image](https://github.com/user-attachments/assets/fe8938a7-48ab-4037-8b1c-44b8d05d5c31)
 
 # Snapshot of Dashboard (Power BI DESKTOP) 
 
-### Page 2:
+### Page 2:  Sales Forecast
 
 ![image](https://github.com/user-attachments/assets/4a0b7e50-21ac-4999-bcea-ec0df9d916bd)
 
